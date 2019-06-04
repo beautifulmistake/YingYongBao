@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HuaWeiMarketRedis/.idea/HuaWeiMarketRedis.iml" filepath="$PROJECT_DIR$/../HuaWeiMarketRedis/.idea/HuaWeiMarketRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ViVoSpider/.idea/ViVoSpider.iml" filepath="$PROJECT_DIR$/../ViVoSpider/.idea/ViVoSpider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../XiaoMiRedis/.idea/XiaoMiRedis.iml" filepath="$PROJECT_DIR$/../XiaoMiRedis/.idea/XiaoMiRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wanDouJia/.idea/wanDouJia.iml" filepath="$PROJECT_DIR$/../wanDouJia/.idea/wanDouJia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/yingyongbao.iml" filepath="$PROJECT_DIR$/.idea/yingyongbao.iml" />
+    </modules>
+  </component>
+</project>
